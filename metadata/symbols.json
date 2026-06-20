@@ -1,0 +1,195 @@
+[
+    {
+        "id": 1,
+        "name": "symbol_1",
+        "svg_file": "vectors/symbol_1.svg",
+        "properties": {
+            "color": "red",
+            "width": 100,
+            "height": 100,
+            "rotation": 90,
+            "description": "",
+            "category": "vehicle"
+        }
+    },
+    {
+        "id": 2,
+        "name": "symbol_2",
+        "svg_file": "vectors/symbol_2.svg",
+        "properties": {
+            "color": "black",
+            "width": 100,
+            "height": 100,
+            "rotation": 0,
+            "description": ""
+        }
+    },
+    {
+        "id": 3,
+        "name": "symbol_3",
+        "svg_file": "vectors/symbol_3.svg",
+        "properties": {
+            "color": "black",
+            "width": 100,
+            "height": 100,
+            "rotation": 0,
+            "description": ""
+        }
+    },
+    {
+        "id": 4,
+        "name": "symbol_4",
+        "svg_file": "vectors/symbol_4.svg",
+        "properties": {
+            "color": "black",
+            "width": 100,
+            "height": 100,
+            "rotation": 0,
+            "description": ""
+        }
+    },
+    {
+        "id": 5,
+        "name": "symbol_5",
+        "svg_file": "vectors/symbol_5.svg",
+        "properties": {
+            "color": "black",
+            "width": 100,
+            "height": 100,
+            "rotation": 0,
+            "description": ""
+        }
+    },
+    {
+        "id": 6,
+        "name": "symbol_6",
+        "svg_file": "vectors/symbol_6.svg",
+        "properties": {
+            "color": "black",
+            "width": 100,
+            "height": 100,
+            "rotation": 0,
+            "description": ""
+        }
+    },
+    {
+        "id": 7,
+        "name": "symbol_7",
+        "svg_file": "vectors/symbol_7.svg",
+        "properties": {
+            "color": "black",
+            "width": 100,
+            "height": 100,
+            "rotation": 0,
+            "description": ""
+        }
+    },
+    {
+        "id": 8,
+        "name": "symbol_8",
+        "svg_file": "vectors/symbol_8.svg",
+        "properties": {
+            "color": "black",
+            "width": 100,
+            "height": 100,
+            "rotation": 0,
+            "description": ""
+        }
+    },
+    {
+        "id": 9,
+        "name": "symbol_9",
+        "svg_file": "vectors/symbol_9.svg",
+        "properties": {
+            "color": "black",
+            "width": 100,
+            "height": 100,
+            "rotation": 0,
+            "description": ""
+        }
+    },
+    {
+        "id": 10,
+        "name": "symbol_10",
+        "svg_file": "vectors/symbol_10.svg",
+        "properties": {
+            "color": "black",
+            "width": 100,
+            "height": 100,
+            "rotation": 0,
+            "description": ""
+        }
+    },
+    {
+        "id": 11,
+        "name": "symbol_11",
+        "svg_file": "vectors/symbol_11.svg",
+        "properties": {
+            "color": "black",
+            "width": 100,
+            "height": 100,
+            "rotation": 0,
+            "description": ""
+        }
+    },
+    {
+        "id": 12,
+        "name": "symbol_12",
+        "svg_file": "vectors/symbol_12.svg",
+        "properties": {
+            "color": "black",
+            "width": 100,
+            "height": 100,
+            "rotation": 0,
+            "description": ""
+        }
+    },
+    {
+        "id": 13,
+        "name": "symbol_13",
+        "svg_file": "vectors/symbol_13.svg",
+        "properties": {
+            "color": "black",
+            "width": 100,
+            "height": 100,
+            "rotation": 0,
+            "description": ""
+        }
+    },
+    {
+        "id": 14,
+        "name": "symbol_14",
+        "svg_file": "vectors/symbol_14.svg",
+        "properties": {
+            "color": "black",
+            "width": 100,
+            "height": 100,
+            "rotation": 0,
+            "description": ""
+        }
+    },
+    {
+        "id": 15,
+        "name": "symbol_15",
+        "svg_file": "vectors/symbol_15.svg",
+        "properties": {
+            "color": "black",
+            "width": 100,
+            "height": 100,
+            "rotation": 0,
+            "description": ""
+        }
+    },
+    {
+        "id": 16,
+        "name": "symbol_16",
+        "svg_file": "vectors/symbol_16.svg",
+        "properties": {
+            "color": "black",
+            "width": 100,
+            "height": 100,
+            "rotation": 0,
+            "description": ""
+        }
+    }
+]
