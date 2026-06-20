@@ -63,8 +63,13 @@ The system processes engineering symbols, icons, and drawings from a PDF and tra
 
 ### API Documentation
 
+#### POST /upload (Upload Pdf)
 ![Swagger](screenshots/swagger1.png)
+
+#### GET /symbols(Read all symbols)
 ![Swagger](screenshots/swagger2.png)
+
+#### PUT /symbols/{symbols_id} (Edit symbol)
 ![Swagger](screenshots/swagger3.png)
 
 
