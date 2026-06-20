@@ -51,6 +51,20 @@ The system processes engineering symbols, icons, and drawings from a PDF and tra
                   FastAPI APIs
 ```
 
+## Results
+
+### Input PDF
+
+![Input](screenshots/input.png)
+
+### Extracted Symbols
+
+![Symbols](screenshots/output.png)
+
+### API Documentation
+
+![Swagger](screenshots/swagger.png)
+
 ---
 
 ## Tech Stack
