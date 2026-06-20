@@ -63,7 +63,10 @@ The system processes engineering symbols, icons, and drawings from a PDF and tra
 
 ### API Documentation
 
-![Swagger](screenshots/swagger.png)
+![Swagger](screenshots/swagger1.png)
+![Swagger](screenshots/swagger2.png)
+![Swagger](screenshots/swagger3.png)
+
 
 ---
 
